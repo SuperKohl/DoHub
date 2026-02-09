@@ -1,0 +1,18 @@
+# Node / WebUI
+node_modules/
+dist/
+npm-debug.log
+
+# Go / Python / Backend
+*.exe
+*.out
+*.log
+
+# Docker
+docker-compose.override.yml
+
+# VSCode
+.vscode/
+
+# Secrets
+.env
